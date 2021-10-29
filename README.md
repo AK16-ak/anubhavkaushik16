@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @anubhavkaushik16
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-anubhavkaushik16/anubhavkaushik16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m anubhavkaushik
+- 🔭 I’m currently working on be better every day
+- 👯 I’m looking to collaborate on good projects
+- 🌱 I’m currently learning Flutter and Django Development
+- 📫 How to reach me: anubhav16kaushik@gmail.com
