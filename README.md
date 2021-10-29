@@ -1,4 +1,4 @@
-- 👋 Hi, I’m anubhavkaushik
+- 👋 Hi, I’m Anubhav Kaushik
 - 🔭 I’m currently working on be better every day
 - 👯 I’m looking to collaborate on good projects
 - 🌱 I’m currently learning Flutter and Django Development
